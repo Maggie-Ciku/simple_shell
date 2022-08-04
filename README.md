@@ -1,5 +1,7 @@
 Simple Shell readme file
+
 Requirements
+
     General
     Allowed editors: vi, vim, emacs
     All your files will be compiled on Ubuntu 20.04 LTS using gcc, using the options -Wall -Werror -Wextra -pedantic -std=gnu89
@@ -14,6 +16,7 @@ Requirements
     You should have an AUTHORS file at the root of your repository, listing all individuals having contributed content to the repository.
 
 Output
+
     Unless specified otherwise, your program must have the exact same output as sh (/bin/sh) as well as the exact same error output.
     The only difference is when you print an error, the name of the program must be equivalent to your argv[0]
 
