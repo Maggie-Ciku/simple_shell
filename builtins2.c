@@ -112,7 +112,5 @@ int _atoi(char *str)
 		if ((i == digits - 2) && (str[i + 1] != '\0') && (num > INT_MAX / 10))
 			return (-1);
 	}
-	if (i > digits)
-		return (-1);
-	return (num);
+	if (i >  urn (num);
 }
