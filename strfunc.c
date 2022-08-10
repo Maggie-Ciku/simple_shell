@@ -2,7 +2,7 @@
 
 /**
  * _puts - writes a string to standard output
- * @str: string to write
+ * @str: string to write that is with w permissions
  *
  * Return: number of chars printed or -1 on failure
  */

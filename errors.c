@@ -5,7 +5,7 @@
  * @vars: pointer to struct of variables
  * @msg: message to print
  *
- * Return: void
+ * Return: void that is nothing or null
  */
 void print_error(vars_t *vars, char *msg)
 {

@@ -5,7 +5,8 @@
  * @command: full path to the command
  * @vars: pointer to struct of variables
  *
- * Return: 0 on succcess, 1 on failure
+ * Return: 0 on succcess, 1 on failure , that is
+ * 1 if yes, 0 if no
  */
 int path_execute(char *command, vars_t *vars)
 {
